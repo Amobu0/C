@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9116a452-df20-4e21-aa9e-fd6a4618e101}</ProjectGuid>
+    <ProjectGuid>{b2e14722-34a0-4252-8fa5-8a5c7c349c3a}</ProjectGuid>
     <RootNamespace>HonGong</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
