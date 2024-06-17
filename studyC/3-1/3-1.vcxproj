@@ -130,14 +130,19 @@
     <ClCompile Include="3-1.c">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
+    <ClCompile Include="3-10.c" />
+    <ClCompile Include="3-11.c" />
     <ClCompile Include="3-1test.c" />
     <ClCompile Include="3-2.c" />
+    <ClCompile Include="3-2test.c" />
     <ClCompile Include="3-3.c" />
+    <ClCompile Include="3-3test.c" />
     <ClCompile Include="3-4.c" />
     <ClCompile Include="3-5.c" />
     <ClCompile Include="3-6.c" />
     <ClCompile Include="3-7.c" />
     <ClCompile Include="3-8.c" />
+    <ClCompile Include="3-9.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
