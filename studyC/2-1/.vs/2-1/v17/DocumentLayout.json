@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0475BBB8-0415-4ACC-B7EA-E03E1A1040BD}|2-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0475BBB8-0415-4ACC-B7EA-E03E1A1040BD}|2-1.vcxproj|solutionrelative:2test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0475BBB8-0415-4ACC-B7EA-E03E1A1040BD}|2-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0475BBB8-0415-4ACC-B7EA-E03E1A1040BD}|2-1.vcxproj|solutionrelative:2-7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -15,16 +19,16 @@
       "RelativeMoniker": "D:0:0:{0475BBB8-0415-4ACC-B7EA-E03E1A1040BD}|2-1.vcxproj|solutionrelative:2-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0475BBB8-0415-4ACC-B7EA-E03E1A1040BD}|2-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0475BBB8-0415-4ACC-B7EA-E03E1A1040BD}|2-1.vcxproj|solutionrelative:2-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0475BBB8-0415-4ACC-B7EA-E03E1A1040BD}|2-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0475BBB8-0415-4ACC-B7EA-E03E1A1040BD}|2-1.vcxproj|solutionrelative:2-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0475BBB8-0415-4ACC-B7EA-E03E1A1040BD}|2-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0475BBB8-0415-4ACC-B7EA-E03E1A1040BD}|2-1.vcxproj|solutionrelative:2-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0475BBB8-0415-4ACC-B7EA-E03E1A1040BD}|2-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0475BBB8-0415-4ACC-B7EA-E03E1A1040BD}|2-1.vcxproj|solutionrelative:2-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0475BBB8-0415-4ACC-B7EA-E03E1A1040BD}|2-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0475BBB8-0415-4ACC-B7EA-E03E1A1040BD}|2-1.vcxproj|solutionrelative:2-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,60 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "2-7.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-7.c",
-              "RelativeDocumentMoniker": "2-7.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-7.c",
-              "RelativeToolTip": "2-7.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-17T02:44:40.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "2-6.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-6.c",
-              "RelativeDocumentMoniker": "2-6.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-6.c",
-              "RelativeToolTip": "2-6.c",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-17T02:32:01.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "2-5.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-5.c",
-              "RelativeDocumentMoniker": "2-5.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-5.c",
-              "RelativeToolTip": "2-5.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-17T02:18:52.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "2-1.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-1.c",
-              "RelativeDocumentMoniker": "2-1.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-1.c",
-              "RelativeToolTip": "2-1.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-17T02:11:54.531Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -98,7 +50,69 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2test.c",
+              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2test.c",
+              "RelativeDocumentMoniker": "2test.c",
+              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2test.c",
+              "RelativeToolTip": "2test.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-17T03:16:04.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2-7.c",
+              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-7.c",
+              "RelativeDocumentMoniker": "2-7.c",
+              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-7.c",
+              "RelativeToolTip": "2-7.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-17T02:44:40.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2-6.c",
+              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-6.c",
+              "RelativeDocumentMoniker": "2-6.c",
+              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-6.c",
+              "RelativeToolTip": "2-6.c",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-17T02:32:01.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2-5.c",
+              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-5.c",
+              "RelativeDocumentMoniker": "2-5.c",
+              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-5.c",
+              "RelativeToolTip": "2-5.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-17T02:18:52.316Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "2-1.c",
+              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-1.c",
+              "RelativeDocumentMoniker": "2-1.c",
+              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-1.c",
+              "RelativeToolTip": "2-1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-17T02:11:54.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "2-3.c",
               "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-3.c",
               "RelativeDocumentMoniker": "2-3.c",
@@ -106,12 +120,11 @@
               "RelativeToolTip": "2-3.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-17T00:59:32.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T00:59:32.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "2-4.c",
               "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\2-1\\2-4.c",
               "RelativeDocumentMoniker": "2-4.c",
@@ -119,8 +132,7 @@
               "RelativeToolTip": "2-4.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-17T00:58:05.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T00:58:05.282Z"
             }
           ]
         }
