@@ -36,13 +36,31 @@
     <ClCompile Include="4-7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test-1.c">
+    <ClCompile Include="test1-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test-2.c">
+    <ClCompile Include="test1-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test-3.c">
+    <ClCompile Include="test1-3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4-8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4-9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4-10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4-11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4-12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test2-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
