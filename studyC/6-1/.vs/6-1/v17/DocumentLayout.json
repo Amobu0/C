@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\",
+  "WorkspaceRootPath": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\6-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\6-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|solutionrelative:6-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\test6-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\test6-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|solutionrelative:test6-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\test6-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\test6-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|solutionrelative:test6-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\test6-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\test6-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|solutionrelative:test6-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\6-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|solutionrelative:6-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\6-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\6-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|solutionrelative:6-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\6-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\6-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|solutionrelative:6-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\6-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|solutionrelative:6-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\6-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\6-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2624F899-2684-461E-8DC5-3742A1DA50CF}|6-1.vcxproj|solutionrelative:6-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -56,22 +56,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "6-5.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\6-5.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\6-5.c",
               "RelativeDocumentMoniker": "6-5.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\6-5.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\6-5.c",
               "RelativeToolTip": "6-5.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-06-19T08:41:15.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "6-4.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\6-4.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\6-4.c",
               "RelativeDocumentMoniker": "6-4.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\6-4.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\6-4.c",
               "RelativeToolTip": "6-4.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -82,9 +82,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "test6-3.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\test6-3.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\test6-3.c",
               "RelativeDocumentMoniker": "test6-3.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\test6-3.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\test6-3.c",
               "RelativeToolTip": "test6-3.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -95,9 +95,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "test6-2.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\test6-2.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\test6-2.c",
               "RelativeDocumentMoniker": "test6-2.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\test6-2.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\test6-2.c",
               "RelativeToolTip": "test6-2.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -108,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "test6-1.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\test6-1.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\test6-1.c",
               "RelativeDocumentMoniker": "test6-1.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\test6-1.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\test6-1.c",
               "RelativeToolTip": "test6-1.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -119,11 +119,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "6-3.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\6-3.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\6-3.c",
               "RelativeDocumentMoniker": "6-3.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\6-3.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\6-3.c",
               "RelativeToolTip": "6-3.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -134,27 +134,25 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "6-2.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\6-2.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\6-2.c",
               "RelativeDocumentMoniker": "6-2.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\6-2.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\6-2.c",
               "RelativeToolTip": "6-2.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-19T07:42:08.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T07:42:08.889Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "6-1.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\6-1.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\6-1.c",
               "RelativeDocumentMoniker": "6-1.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\6-1\\6-1.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\6-1\\6-1.c",
               "RelativeToolTip": "6-1.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-19T07:26:55.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T07:26:55.108Z"
             }
           ]
         }
