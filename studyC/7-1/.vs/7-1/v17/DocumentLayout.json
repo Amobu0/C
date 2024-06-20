@@ -1,34 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\",
+  "WorkspaceRootPath": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\7-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|solutionrelative:7-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\test7-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|solutionrelative:test7-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\7-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|solutionrelative:7-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\test7-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|solutionrelative:test7-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\7-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|solutionrelative:7-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\7-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|solutionrelative:7-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\7-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|solutionrelative:7-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\test7-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\test7-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|solutionrelative:test7-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\test7-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\test7-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|solutionrelative:test7-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\7-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|solutionrelative:7-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\7-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|solutionrelative:7-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\7-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|solutionrelative:7-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\7-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|solutionrelative:7-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\7-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BC6B034-57CB-4912-AD95-9B0686BBD835}|7-1.vcxproj|solutionrelative:7-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +46,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test7-5.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\test7-5.c",
+              "RelativeDocumentMoniker": "test7-5.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\test7-5.c",
+              "RelativeToolTip": "test7-5.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-20T12:46:47.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test7-4.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\test7-4.c",
+              "RelativeDocumentMoniker": "test7-4.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\test7-4.c",
+              "RelativeToolTip": "test7-4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-20T12:37:04.295Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "7-5.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\7-5.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\7-5.c",
               "RelativeDocumentMoniker": "7-5.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\7-5.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\7-5.c",
               "RelativeToolTip": "7-5.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -55,11 +97,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "7-4.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\7-4.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\7-4.c",
               "RelativeDocumentMoniker": "7-4.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\7-4.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\7-4.c",
               "RelativeToolTip": "7-4.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -68,11 +110,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "7-3.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\7-3.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\7-3.c",
               "RelativeDocumentMoniker": "7-3.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\7-3.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\7-3.c",
               "RelativeToolTip": "7-3.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -81,11 +123,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "7-2.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\7-2.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\7-2.c",
               "RelativeDocumentMoniker": "7-2.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\7-2.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\7-2.c",
               "RelativeToolTip": "7-2.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -94,24 +136,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "test7-3.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\test7-3.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\test7-3.c",
               "RelativeDocumentMoniker": "test7-3.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\test7-3.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\test7-3.c",
               "RelativeToolTip": "test7-3.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-06-20T07:16:13.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "test7-1.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\test7-1.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\test7-1.c",
               "RelativeDocumentMoniker": "test7-1.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\test7-1.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\test7-1.c",
               "RelativeToolTip": "test7-1.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -120,24 +162,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "7-1.c",
-              "DocumentMoniker": "C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\7-1.c",
+              "DocumentMoniker": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\7-1.c",
               "RelativeDocumentMoniker": "7-1.c",
-              "ToolTip": "C:\\Users\\KDP\\Desktop\\C\\studyC\\7-1\\7-1.c",
+              "ToolTip": "C:\\Users\\SSD\\Desktop\\C\\studyC\\7-1\\7-1.c",
               "RelativeToolTip": "7-1.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-06-20T03:38:17.435Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
