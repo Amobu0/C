@@ -1,11 +1,2 @@
-﻿  6-1.c
-  6-2.c
-  6-3.c
-  6-4.c
-  6-5.c
-  test6-1.c
-  test6-2.c
-  test6-3.c
-  코드를 생성하고 있습니다...
-  LINK : C:\Users\SSD\Desktop\C\studyC\6-1\x64\Debug\6-1.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
-  6-1.vcxproj -> C:\Users\SSD\Desktop\C\studyC\6-1\x64\Debug\6-1.exe
+﻿  test6-5.c
+  6-1.vcxproj -> C:\Users\KDP\Desktop\C\studyC\6-1\x64\Debug\6-1.exe
