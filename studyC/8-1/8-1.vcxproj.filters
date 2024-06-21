@@ -33,5 +33,14 @@
     <ClCompile Include="8-5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="8-6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8-7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test8-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

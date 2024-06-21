@@ -1,4 +1,4 @@
-﻿  8-4.c
-  8-5.c
-  코드를 생성하고 있습니다...
+﻿  test8-2.c
+C:\Users\KDP\Desktop\C\studyC\8-1\test8-2.c(11,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\KDP\Desktop\C\studyC\8-1\test8-2.c(11,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'size_t'입니다.
   8-1.vcxproj -> C:\Users\KDP\Desktop\C\studyC\8-1\x64\Debug\8-1.exe
