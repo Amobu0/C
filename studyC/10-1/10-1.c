@@ -18,3 +18,20 @@ int main(void)
     printf("\n");
     return 0;
 }
+
+/*
+    100
+    3.5
+    116
+    0.5
+    7.4
+    (116-100) / sizeof(double) = 2
+
+    o x o x o o
+
+    for (i = 0; i < 3; i++)
+    {
+        printf("%.1lf", *pb);
+        pb++;
+    }
+*/
