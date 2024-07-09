@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="12-10.c" />
+    <ClCompile Include="12-11.c" />
+    <ClCompile Include="12-13.c" />
     <ClCompile Include="12-8.c" />
+    <ClCompile Include="12-9.c" />
     <ClCompile Include="HonGong.c">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
